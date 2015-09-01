@@ -1,7 +1,11 @@
 {
   "name": "g.raphael",
   "main": [
-    "g.raphael.js"
+    "g.raphael.js",
+    "g.pie.js",
+    "g.line.js",
+    "g.dot.js",
+    "g.bar.js"
   ],
   "version": "0.5.1",
   "homepage": "https://github.com/yaoshining/g.raphael",
