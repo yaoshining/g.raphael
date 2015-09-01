@@ -1,0 +1,36 @@
+{
+  "name": "g.raphael",
+  "main": [
+    "g.raphael.js"
+  ],
+  "version": "0.5.1",
+  "homepage": "https://github.com/yaoshining/g.raphael",
+  "authors": [
+    "yao <ysnlvlqw@msn.com>"
+  ],
+  "description": "Copy of g.raphael in bower version.",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "g.raphael",
+    "yao",
+    "raphael",
+    "chart",
+    "svg",
+    "vml"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "raphael": "~2.1.4"
+  }
+}
